@@ -9,9 +9,20 @@
 - 📫 How to reach me? Message me if you need in any way.
 
  PS *sorry for my english* :)
-'''html
-<button>test</button>
-'''
+```html
+<p>test</p>
+```
+
+|langages|niveau|
+|---|---|
+|html|basic|
+|css|basic|
+|php|learning|
+|mySql|learning|
+|C|basic|
+|Java|learning in progress|
+
+[My presentation website (in french)](http://jelu.alwaysdata.net/index.html)
 <!---
 JeromeLuss/JeromeLuss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
