@@ -13,7 +13,7 @@
 <p>test</p>
 ```
 
-|langages|niveau|
+|langages|level|
 |---|---|
 |html|basic|
 |css|basic|
